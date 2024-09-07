@@ -1,0 +1,11 @@
+[project]
+name  = "abb-sql-inpection-tool"
+version = "1,0,1"
+description = "A Django middleware package to print out queries to the terminal"
+readme = "README.md"
+license = { file = "LICENSE" }
+
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = ""
