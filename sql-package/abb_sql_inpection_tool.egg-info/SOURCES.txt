@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+abb-sql-inspection-tool/__init__.py
+abb-sql-inspection-tool/middleware.py
+abb_sql_inpection_tool.egg-info/PKG-INFO
+abb_sql_inpection_tool.egg-info/SOURCES.txt
+abb_sql_inpection_tool.egg-info/dependency_links.txt
+abb_sql_inpection_tool.egg-info/requires.txt
+abb_sql_inpection_tool.egg-info/top_level.txt

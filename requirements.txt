@@ -1,9 +1,15 @@
 asgiref==3.8.1
+build==1.2.2
 Django==4.2.15
 factory_boy==3.3.1
 Faker==27.0.0
+importlib_metadata==8.4.0
+packaging==24.1
 Pygments==2.18.0
+pyproject_hooks==1.1.0
 python-dateutil==2.9.0.post0
 six==1.16.0
 sqlparse==0.5.1
+tomli==2.0.1
 typing_extensions==4.12.2
+zipp==3.20.1
