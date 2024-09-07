@@ -25,5 +25,5 @@ include = ["abb-sql-inspection-tool"]
 
 
 [project.urls]
-Homepage = "https://github.com/xiranli007"
+Homepage = "https://github.com/xiranli007/sql-inspection-middleware.git"
 
