@@ -1,0 +1,1 @@
+This Django middleware enable us to capture and examine SQL queries executed by Django ORM.

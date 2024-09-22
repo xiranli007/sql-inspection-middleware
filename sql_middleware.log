@@ -1,0 +1,19 @@
+2024-09-22 23:39:03,680 - INFO - ==========
+2024-09-22 23:39:03,680 - INFO - SQL Stats
+2024-09-22 23:39:03,680 - INFO - 1 Total Queries
+2024-09-22 23:39:03,680 - INFO - Total execution time: 0.00 seconds
+2024-09-22 23:39:03,680 - INFO - 0 Duplicate Queries Detected
+2024-09-22 23:39:03,680 - INFO - 0 Slow Queries Detected
+2024-09-22 23:39:03,680 - INFO - 0 Potential N+1 Issues Detected
+2024-09-22 23:39:03,680 - INFO - 0 Expensive JOIN Queries Detected
+2024-09-22 23:39:03,681 - INFO - ==========
+2024-09-22 23:39:03,739 - INFO - ==========
+2024-09-22 23:39:03,739 - INFO - SQL Stats
+2024-09-22 23:39:03,739 - INFO - 0 Total Queries
+2024-09-22 23:39:03,739 - INFO - Total execution time: 0.00 seconds
+2024-09-22 23:39:03,739 - INFO - 0 Duplicate Queries Detected
+2024-09-22 23:39:03,739 - INFO - 0 Slow Queries Detected
+2024-09-22 23:39:03,739 - INFO - 0 Potential N+1 Issues Detected
+2024-09-22 23:39:03,740 - INFO - 0 Expensive JOIN Queries Detected
+2024-09-22 23:39:03,740 - INFO - ==========
+2024-09-22 23:39:03,740 - WARNING - Not Found: /favicon.ico
